@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Commit message is working"
+echo "Great success"
+
+exit 0
